@@ -9,7 +9,12 @@
 > * Wrapping first , as suggested in assignment
 > * Then finally trying to reduce complexity 
 
+### Week 2
+> * Will be working on the wrapper for the model
+> * Aim will be to automatically pick up and classify the numbers in the provided audio clip
+> * Made a few small changes to the code to further improve the accuracy
+> * Small subtle changes in CNN architecture might be needed but no compromises with the accuracy 
+
 ### More details in the corresponding Assignment{x}/docs/README.md
-x ==
-1 for Audio acuity
+x == 1 for Audio acuity
 
