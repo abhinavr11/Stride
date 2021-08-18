@@ -7,7 +7,7 @@
 * Tried to understand the [code](https://colab.research.google.com/drive/1A46yAHC7uGr-mKggasHbBtodZ6wYZvv1?usp=sharing)
 * Still figuring out stuff 
 
-> 07/08/21 - 11/08/21
+> 12/08/21 - 18/08/21
 * Reverted back to original algorithm as my experiments to make the model better kept hitting a dead end
 * Finalized the previous algorithm with minor changes (disregarding averaging out of the audio tensors)
 * Divided the test based on silence between two consecutive words
