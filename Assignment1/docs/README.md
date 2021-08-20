@@ -13,3 +13,5 @@
 * Divided the test based on silence between two consecutive words
 * Transformed the generated audio files to extract out mfcc features 
 * Generated logits from the CNN after passing the test audio chunks through it 
+* No luck so far with the accuracy on the test audio file data (even after reducing noise and removing audio files that were not properly split)
+* Possible fixes - 1. Might try stft , lot of padding is involved learning is less i think its because of this
