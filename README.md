@@ -15,6 +15,13 @@
 > * Made a few small changes to the code to further improve the accuracy
 > * Small subtle changes in CNN architecture might be needed but no compromises with the accuracy 
 
+### Week 3
+> * Tried different experiments and built a testing mechanism but things dont seem to be working
+> * Will be trying out regularization
+> * Made a few changes to the CNN (introduced strides so reduce overfitting on the MNIST dataset)
+> * Will be following a pipeline to train on MNIST and test on freespeak dataset 
+> * If the model performs well on freespeak , then will try that out on the audio file provided
+
 ### More details in the corresponding Assignment{x}/docs/README.md
 x == 1 for Audio acuity
 
