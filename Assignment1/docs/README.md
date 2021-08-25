@@ -15,3 +15,11 @@
 * Generated logits from the CNN after passing the test audio chunks through it 
 * No luck so far with the accuracy on the test audio file data (even after reducing noise and removing audio files that were not properly split)
 * Possible fixes - 1. Might try stft , lot of padding is involved learning is less i think its because of this
+
+> 19/08/21 - 28/08/21
+* Did a lot of experimenting but am unable to narrow down as to what is causing the model to perform badly on real dataset
+* Tried training on freespeak dataset to check if there's something wrong with MNIST but even freespeak performed poorly on real dataset
+* Introduced strides on 2 more layers to reduce overfitting and saw some improvement from the model
+* Reduced number of epochs and further saw improvements
+* Added dropout layer only to check overfitting and the model 
+* Motive now is to make the model work better on audios that are not very similar to the MNIST data
