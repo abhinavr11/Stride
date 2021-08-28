@@ -23,3 +23,10 @@
 * Reduced number of epochs and further saw improvements
 * Added dropout layer only to check overfitting and the model 
 * Motive now is to make the model work better on audios that are not very similar to the MNIST data
+* Tried Regularization and it worked , the problem detected was correct 
+* Significantly reduced the computational complexity of the model , its lighter and faster now
+* A lot of improvements can be still be made just by adjusting the parameters of regularizer
+* Read [Artcle on Regularization](https://towardsdatascience.com/types-of-regularization-in-machine-learning-eb5ce5f9bf50) 
+* Read [another article for the same](https://towardsdatascience.com/regularization-in-deep-learning-l1-l2-and-dropout-377e75acc036)
+* Read [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/linear-classify/)
+
