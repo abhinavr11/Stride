@@ -22,7 +22,7 @@
 > * Will be following a pipeline to train on MNIST and test on freespeak dataset 
 > * If the model performs well on freespeak , then will try that out on the audio file provided
 
-### Week 3
+### Week 4
 > * Trying different combinations with regularization
 > * I plan to fine tune the model on the real data once again
 > * Semi Supervised or active learning might help but we have a constraint of limited real test dataset of just 67 audio clips
