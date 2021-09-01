@@ -30,3 +30,10 @@
 * Read [another article for the same](https://towardsdatascience.com/regularization-in-deep-learning-l1-l2-and-dropout-377e75acc036)
 * Read [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/linear-classify/)
 
+> 29/09/21 - 4/09/21
+* Will be focussing most of my time playing around with the regulazrizers
+* Currently trying different combinations of the hyperparameters of the CNN
+* Maximum accuracy achieved till now is the same 65% around 
+* I read about Semi supervised learning an active learning and i plan to try that out too
+* Already have reduced the parameters/complexity if the model significantly , will try to do it further if it doesnt cost accuracy
+* Made the wrapper for the test (real) audio file 
