@@ -37,3 +37,6 @@
 * I read about Semi supervised learning an active learning and i plan to try that out too
 * Already have reduced the parameters/complexity if the model significantly , will try to do it further if it doesnt cost accuracy
 * Made the wrapper for the test (real) audio file 
+* Fine tuning the actual model worked and gave an accuracy of 98.50 % on the real data
+* In the process I tried many other things like clustering using SVM and KNN too but the results were not that promising
+* I was able to reduce the complexity of the model by ~ 60% while retaining its accuracy (and even improving it on real data)
