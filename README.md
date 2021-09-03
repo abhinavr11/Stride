@@ -26,7 +26,8 @@
 > * Trying different combinations with regularization
 > * I plan to fine tune the model on the real data once again
 > * Semi Supervised or active learning might help but we have a constraint of limited real test dataset of just 67 audio clips
-> * This being the last week , I'll wrap up by reducing complexity  
+> * This being the last week , I'll wrap up by reducing complexity 
+> * Accuracy achieved (98.50 %) and complexity reduced (~60%)
 
 ### More details in the corresponding Assignment{x}/docs/README.md
 x == 1 for Audio acuity
